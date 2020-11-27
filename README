@@ -1,0 +1,2 @@
+This program allows the user to choose between a merge and bubble sort for the input text file. 
+For the default text file, stack size must be changed to 800+ MB to prevent program crash.
