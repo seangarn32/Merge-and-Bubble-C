@@ -44,7 +44,7 @@ int main() {
 					
 					if (sz < 0)	 {
 						 cerr << endl << "ERROR: Output File could not be opened." <<endl;
-						 cerr << "       Quiting Now!" << endl << endl;
+						 cerr << "       Quitting Now!" << endl << endl;
 						 return 0;
 					}
 					else cout << endl << "Output written to " << ofilename << endl;
